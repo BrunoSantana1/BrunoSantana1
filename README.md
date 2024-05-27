@@ -1,7 +1,5 @@
 ## Minhas habilidades
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantana1&layout=donut&title_color=FFFFFF&text_color=FFFFFF&bg_color=000000&border_color=44475a)](https://github.com/BrunoSantana1/github-readme-stats)
-
 #### Habilidades principais:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
