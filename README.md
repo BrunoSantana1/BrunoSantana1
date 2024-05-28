@@ -1,3 +1,5 @@
+<h1>Olá! Me chamo Bruno, tenho 22 anos e estou no terceiro semestre em Análise e Desenvolvimento de Sistemas. Aqui no GitHub pretendo colocar toda minha evolução através de projetos e exercícios.</h1>
+
 ## Minhas habilidades
 
 #### Habilidades principais:
