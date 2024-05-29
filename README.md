@@ -25,6 +25,5 @@
 </div>
 
 <br>
-<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantana1&layout=donut&theme=dark)](https://github.com/BrunoSantana1/github-readme-stats)
