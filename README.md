@@ -1,4 +1,5 @@
-<h3>👨‍💻 Olá! Me chamo Bruno, tenho 23 anos e estou no penúltimo semestre em Análise e Desenvolvimento de Sistemas.</h3>
+<h2>👨‍💻 Olá! Me chamo Bruno, tenho 23 anos e estou no penúltimo semestre em Análise e Desenvolvimento de Sistemas.</h2>
+📌
 
 ## Minhas habilidades
 
