@@ -23,6 +23,12 @@
 <a href="https://wa.me/5547992260695" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
+## Currículo:
+
+<div>
+<a href="https://portfoliodobruno.vercel.app/resume/Bruno_SantanaArtismo_curr%C3%ADculo.pdf" target="_blank"> <img src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Curriculo"></a>
+</div>
+
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSantana1&layout=donut&theme=dark)](https://github.com/BrunoSantana1/github-readme-stats)
