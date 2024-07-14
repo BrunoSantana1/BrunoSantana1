@@ -1,4 +1,4 @@
-<h2>👨‍💻 Olá! Me chamo Bruno, tenho 23 anos e estou no penúltimo semestre em Análise e Desenvolvimento de Sistemas. Nesta rede você encontrará todos meus projetos feitos até o momento.</h2>
+<h2>👨‍💻 Olá! Me chamo Bruno, tenho 23 anos e estou no penúltimo semestre em Análise e Desenvolvimento de Sistemas. Nesta rede você encontrará todos meus projetos e exercícios feitos até o momento.</h2>
 
 <h3>Principais habilidades:</h3>
     
