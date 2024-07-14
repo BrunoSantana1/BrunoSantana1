@@ -20,5 +20,5 @@
 
 <div>
 <a href="https://wa.me/5547992260695" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-<a href="https://portfoliodobruno.vercel.app/resume/Bruno_SantanaArtismo_curr%C3%ADculo.pdf" target="_blank"> <img src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the badge&logo=readdotcv&logoColor=white" alt="Curriculo"></a>
+<a href="https://portfoliodobruno.vercel.app/resume/Bruno_SantanaArtismo_curr%C3%ADculo.pdf" target="_blank"> <img src="https://img.shields.io/badge/Read.cv-111111.svg?style=for-the badge&logo=readdotcv&logoColor=white" alt="Curriculo" style="width: 102px; height: auto;"></a>
 </div>
