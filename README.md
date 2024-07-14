@@ -14,9 +14,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 ![Node js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
-<h1>
-
-### Entre em contato ou veja meu currículo.
+<h2>Entre em contato ou veja meu currículo.</h2>
 
 <div>
 <a href="https://wa.me/5547992260695" target="_blank"> <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
