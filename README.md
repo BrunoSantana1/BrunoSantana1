@@ -16,7 +16,6 @@
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="GCP" height="50" width="6%" />    
 </div></td><td valign="top" width="33%">  
 
-### Version control
+### DevOps
 <div align="center">
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" /> 
-</div></td><td valign="top" width="33%">
+<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
